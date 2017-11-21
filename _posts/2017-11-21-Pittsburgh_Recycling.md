@@ -42,7 +42,7 @@ The list goes on and on, but we asked Kyle for the most common items. Kyle has a
 Note that these rules are subject to change as facilities buy more equipment or change their sorting practices, so keep your eyes peeled. 
 
 
-![HVAV filter](/img/posts/HVACFilter.jpg){:class="img-responsive"}{:height="960px" width="1280px"}These may look like they're recyclable, but they're not.
+![HVAV filter](/img/posts/HVACFilter_cropped.jpg){:class="img-responsive"}{:height="960px" width="688px"}These may look like they're recyclable, but they're not.
 
 
 General recycling tips from Kyle, applicable for all materials recovery facilities and recycling programs:
