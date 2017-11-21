@@ -10,7 +10,7 @@ Recycling can be a *really* messy problem. Not just literally, as when you need 
 We at CleanRobotics seek to significantly improve landfill diversion rates and materials recovery rates with our smart waste receptacle, the TrashBot, which automatically sorts recyclables from landfill waste. We’ll be deploying our TrashBots in various pilots throughout the coming months (look out for them!), but in the meantime, we wanted to give you some guidelines and answer your burning questions about how to recycle and why the rules keep changing! We sat down with the Pittsburgh Department of Public Works’ Recycling Supervisor, Kyle Winkler, and asked him to give us the low-down on recycling in Pittsburgh.
 
 
-![Kyle Winkler](/img/posts/kyle_TBot_cropped_small.jpg){:class="img-responsive"}{:height="500px" width="453px"}
+![Kyle Winkler](/img/posts/kyle_TBot_cropped_small.jpg){:class="img-responsive"}{:height="500px" width="453px"} Kyle Winkler with the TrashBot at the City County Building, October 2017. Does his name sound familiar? He was our mentor during the PGH Labs program!
 
 
 When asked how Pittsburgh is doing, recycling-wise, Kyle suggested that there “needs to be improvement, both in terms of how it’s measured and overall.” Kyle estimates that the Pittsburgh diversion rate (percentage of recycling recovered from the total waste generated) is only around 17%. This number is less than half of the national average, and is not nearly as optimistic-sounding as the 72% “participation rate” touted in this [2015 Pittsburgh Post-Gazette article](http://www.post-gazette.com/local/city/2015/06/03/Recycling-of-solid-waste-continues-to-grow-in-city-but-still-short-of-goal/stories/201506030145). 
@@ -42,7 +42,7 @@ The list goes on and on, but we asked Kyle for the most common items. Kyle has a
 Note that these rules are subject to change as facilities buy more equipment or change their sorting practices, so keep your eyes peeled. 
 
 
-![HVAV filter](/img/posts/HVACFilter.jpg){:class="img-responsive"}{:height="960px" width="1280px"}
+![HVAV filter](/img/posts/HVACFilter.jpg){:class="img-responsive"}{:height="960px" width="1280px"}These may look like they're recyclable, but they're not.
 
 
 General recycling tips from Kyle, applicable for all materials recovery facilities and recycling programs:
