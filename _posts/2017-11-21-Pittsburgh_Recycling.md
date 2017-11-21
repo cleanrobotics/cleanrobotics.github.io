@@ -62,3 +62,5 @@ Residents may see some additional facilities and resources soon. “We’re look
 At the end of the day, Kyle thinks that recycling isn’t the ultimate answer. “There needs to be a cultural shift. Stop buying single-use items.” Unfortunately, that’s easier said than done, so while we wait for consumer habits and product packaging to change, keep in mind the recycling adage, “When it doubt, throw it out!” Or, just use a TrashBot.
 
 Kyle leaves us with these words to think about: “Waste items will always need to be managed, but hopefully in increasingly thoughtful ways than what we are doing now. We’ve sent folks to the moon, landed reusable booster rockets on remotely operated landing pads in the ocean, will soon have self-driving cars, but still we are designing items for trash and sending them to a hole in the ground. Seems like a system and practice that is long overdue for change.”
+
+Thanks for shedding some much-needed light on recycling in Pittsburgh, Kyle!
