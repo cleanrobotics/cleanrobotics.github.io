@@ -21,6 +21,7 @@ Before we jump into it, it’s important to understand that the limitations on w
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrNVNMH6JQQ" frameborder="0" allowfullscreen></iframe>
 
+
 If your waste is going to Hazelwood, here are some heuristics that you can use to sort your waste more accurately than you probably already are:
 -Plastics #1 – 5 are okay to recycle, as long as they fit the criteria below. Steer clear of #6 and #7, for now.
 -Food containers (plastic, metal) are generally okay, as long as they aren’t too small or too large. Examples of items that are too small: 5 Hour Energy bottles and yogurt lids. Too large: buckets or plastic bins (over 3 gallons). No plastic wrappers or filmy materials (like bags).
