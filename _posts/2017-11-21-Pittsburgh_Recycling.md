@@ -26,18 +26,18 @@ Before we jump into it, it’s important to understand that the limitations on w
 
 
 If your waste is going to Hazelwood, here are some heuristics that you can use to sort your waste more accurately than you probably already are:
--Plastics #1 – 5 are okay to recycle, as long as they fit the criteria below. Steer clear of #6 and #7, for now.
--Food containers (plastic, metal) are generally okay, as long as they aren’t too small or too large. Examples of items that are too small: 5 Hour Energy bottles and yogurt lids. Too large: buckets or plastic bins (over 3 gallons). No plastic wrappers or filmy materials (like bags).
--Mixed paper is fine, as long as it’s not too small (no receipts or post-it notes), and not contaminated. No food residue or liquid.
+- Plastics #1 – 5 are okay to recycle, as long as they fit the criteria below. Steer clear of #6 and #7, for now.
+- Food containers (plastic, metal) are generally okay, as long as they aren’t too small or too large. Examples of items that are too small: 5 Hour Energy bottles and yogurt lids. Too large: buckets or plastic bins (over 3 gallons). No plastic wrappers or filmy materials (like bags).
+- Mixed paper is fine, as long as it’s not too small (no receipts or post-it notes), and not contaminated. No food residue or liquid.
 
 **DON’T PUT IN CURBSIDE RECYCLING (at least, for now):**
--plastic bags
--metal that isn’t an aluminum, tin, or steel can (no tools, pots, pans, etc.)
--paper food service items (paper plates, napkins – though these are likely compostable)
--Tetra Paks or other aseptic packaging (though these may be recyclable in the near future)
--small pieces of paper, like receipts or post-it notes
--plastic bottles that are too small (5 Hour Energy bottles or medicine bottles)
--ceramics (these are not recyclable!)
+- plastic bags
+- metal that isn’t an aluminum, tin, or steel can (no tools, pots, pans, etc.)
+- paper food service items (paper plates, napkins – though these are likely compostable)
+- Tetra Paks or other aseptic packaging (though these may be recyclable in the near future)
+- small pieces of paper, like receipts or post-it notes
+- plastic bottles that are too small (5 Hour Energy bottles or medicine bottles)
+- ceramics (these are not recyclable!)
 The list goes on and on, but we asked Kyle for the most common items. Kyle has also noticed a number of unusual items, such as HVAC air filters, which look like they might be recyclable, but aren’t. “They look like they’re made of cardboard, but they have metal and other materials inside, and we can’t recycle them,” says Kyle. “Also, plastic hangers are not recyclable. No plastic crates, either.” 
 Note that these rules are subject to change as facilities buy more equipment or change their sorting practices, so keep your eyes peeled. 
 
