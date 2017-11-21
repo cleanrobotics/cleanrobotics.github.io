@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ultimate Primer to Recycling in Pittsburgh
-img: MRF-Glass-Overs-01 - 1.jpg
+img: MRF-Glass-Overs.jpg
 thumbnail: MRF_thumb.jpg
 ---
 
