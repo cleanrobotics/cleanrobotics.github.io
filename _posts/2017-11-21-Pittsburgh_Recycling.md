@@ -19,7 +19,7 @@ Unfortunately, TrashBot is not yet widely available. If you do have unanswered q
 
 Before we jump into it, it’s important to understand that the limitations on what’s recyclable are due to differences in waste management facilities, especially in the case of single-stream recycling. The residential waste (for buildings with fewer than five family units) that is handled by the city of Pittsburgh primarily goes to the materials recovery facility in Hazelwood. Thus, the single-stream sorting process and machinery at the Hazelwood facility affect what you can and can’t recycle. For example, at the Hazelwood facility, glass is removed from the stream early on in the process, which also leads to the removal of small items like scraps of paper and bottle caps (see video below). Keep in mind that if your recycling is going to Neville Island (as in the case of some facilities with private waste haulers, such as office buildings or apartment buildings with more than five units), these rules may be different. Stay tuned for more info on this – CleanRobotics is on the case!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PrNVNMH6JQQ" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id="PrNVNMH6JQQ" %}
 
 
 If your waste is going to Hazelwood, here are some heuristics that you can use to sort your waste more accurately than you probably already are:
