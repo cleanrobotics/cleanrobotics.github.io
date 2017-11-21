@@ -9,7 +9,7 @@ Recycling can be a really messy problem. Not just literally, as when you need to
 
 We at CleanRobotics seek to significantly improve landfill diversion rates and materials recovery rates with our smart waste receptacle, the TrashBot, which automatically sorts recyclables from landfill waste. We’ll be deploying our TrashBots in various pilots throughout the coming months (look out for them!), but in the meantime, we wanted to give you some guidelines and answer your burning questions about how to recycle and why the rules keep changing! We sat down with the Pittsburgh Department of Public Works’ Recycling Supervisor, Kyle Winkler, and asked him to give us the low-down on recycling in Pittsburgh.
 
-![Kyle Winkler](/img/posts/kyle_tbot_cropped.jpg){:class="img-responsive"}{:height="1200px" width="825px"}
+![Kyle Winkler](/img/posts/kyle_tbot_cropped_small.jpg){:class="img-responsive"}{:height="453px" width="500px"}
 
 When asked how Pittsburgh is doing, recycling-wise, Kyle suggested that there “needs to be improvement, both in terms of how it’s measured and overall.” Kyle estimates that the Pittsburgh diversion rate (percentage of recycling recovered from the total waste generated) is only around 17%. This number is less than half of the national average, and is not nearly as optimistic-sounding as the 72% “participation rate” touted in this [2015 Pittsburgh Post-Gazette article](http://www.post-gazette.com/local/city/2015/06/03/Recycling-of-solid-waste-continues-to-grow-in-city-but-still-short-of-goal/stories/201506030145). 
 
@@ -17,9 +17,9 @@ Kyle believes that the key to bringing the diversion rate up is “to improve ed
 
 Unfortunately, TrashBot is not yet widely available. If you do have unanswered questions about recycling, your only recourse is to contact the Recycling Division of the Department of Public Works. In the meantime, we asked Kyle to help us figure out how to recycle properly in Pittsburgh! Here are our notes.
 
-Before we jump into it, it’s important to understand that the limitations on what’s recyclable are due to differences in waste management facilities, especially in the case of single-stream recycling. The residential waste (for buildings with fewer than five family units) that is handled by the city of Pittsburgh primarily goes to the materials recovery facility in Hazelwood. Thus, the single-stream sorting process and machinery at the Hazelwood facility affect what you can and can’t recycle. Keep in mind that if your recycling is going to Neville Island (as in the case of some facilities with private waste haulers, such as office buildings or apartment buildings with more than five units), these rules may be different. Stay tuned for more info on this – CleanRobotics is on the case!
+Before we jump into it, it’s important to understand that the limitations on what’s recyclable are due to differences in waste management facilities, especially in the case of single-stream recycling. The residential waste (for buildings with fewer than five family units) that is handled by the city of Pittsburgh primarily goes to the materials recovery facility in Hazelwood. Thus, the single-stream sorting process and machinery at the Hazelwood facility affect what you can and can’t recycle. For example, at the Hazelwood facility, glass is removed from the stream early on in the process, which also leads to the removal of small items like scraps of paper and bottle caps (see video below). Keep in mind that if your recycling is going to Neville Island (as in the case of some facilities with private waste haulers, such as office buildings or apartment buildings with more than five units), these rules may be different. Stay tuned for more info on this – CleanRobotics is on the case!
 
-![Glass video here](/img/posts/kyle_tbot_cropped.jpg){:class="img-responsive"}{:height="1200px" width="825px"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PrNVNMH6JQQ" frameborder="0" allowfullscreen></iframe>
 
 If your waste is going to Hazelwood, here are some heuristics that you can use to sort your waste more accurately than you probably already are:
 -Plastics #1 – 5 are okay to recycle, as long as they fit the criteria below. Steer clear of #6 and #7, for now.
@@ -45,7 +45,7 @@ General recycling tips from Kyle, applicable for all materials recovery faciliti
 5.	Leave bottle caps on plastic soda bottles – it’s fine! 
 6.	Rinse out your items if you can…but you don’t HAVE to. Humans down the line would really appreciate it if you could rinse out your jars and bottles, especially if they formerly contained sugary liquids or solids, as the sugars tend to attract vermin. But, if you have a tiny bit of food residue left over, you can put it in the recycling bin. Don’t even think about it if there’s a lot of food left in the container.
 
-![Peanut butter mess! Courtesy of Kyle Winkler](/img/posts/MRF-Peanut Butter Mess - 1.jpg){:class="img-responsive"}{:height="1200px" width="825px"}
+![Peanut butter mess! Courtesy of Kyle Winkler](/img/posts/MRF-PeanutButter.jpg){:class="img-responsive"}{:height="1280px" width="857px"}
 
 If your apartment building doesn’t have a recycling program, you may have to take your recyclables to a drop-off center. See a list of locations in Pittsburgh [here](http://apps.pittsburghpa.gov/dpw/CoP_RecyclingNews.pdf).
 
