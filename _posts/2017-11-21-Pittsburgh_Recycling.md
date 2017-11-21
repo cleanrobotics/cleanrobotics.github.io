@@ -42,7 +42,7 @@ The list goes on and on, but we asked Kyle for the most common items. Kyle has a
 Note that these rules are subject to change as facilities buy more equipment or change their sorting practices, so keep your eyes peeled. 
 
 
-![HVAV filter](/img/posts/HVACFilter_cropped.jpg){:class="img-responsive"}{:height="960px" width="643px"}*An HVAC filter. These may look like they're recyclable, but they're not.*
+![HVAV filter](/img/posts/HVACFilter_cropped.jpg){:class="img-responsive"}{:height="960px" width="643px"}*An HVAC filter. These may look like they're recyclable, but they're not. Photo courtesy of Kyle Winkler.*
 
 
 **General recycling tips from Kyle, applicable for all materials recovery facilities and recycling programs:**
@@ -53,7 +53,7 @@ Note that these rules are subject to change as facilities buy more equipment or 
 5.	Leave bottle caps on plastic soda bottles – it’s fine! 
 6.	Rinse out your items if you can…but you don’t HAVE to. Humans down the line would really appreciate it if you could rinse out your jars and bottles, especially if they formerly contained sugary liquids or solids, as the sugars tend to attract vermin. But, if you have a tiny bit of food residue left over, you can put it in the recycling bin. Don’t even think about it if there’s a lot of food left in the container.
 
-![Peanut butter mess! Courtesy of Kyle Winkler](/img/posts/MRF-PeanutButter_small.jpg){:class="img-responsive"}{:height="960px" width="857px"} This is what happens when you throw away a container full of peanut butter -- a mess! Photo courtesy of Kyle Winkler.
+![Peanut butter mess! Courtesy of Kyle Winkler](/img/posts/MRF-PeanutButter_small.jpg){:class="img-responsive"}{:height="960px" width="857px"} *This is what happens when you throw away a container full of peanut butter -- a mess! Photo courtesy of Kyle Winkler.*
 
 If your apartment building doesn’t have a recycling program, you may have to take your recyclables to a drop-off center. See a list of locations in Pittsburgh [here](http://apps.pittsburghpa.gov/dpw/CoP_RecyclingNews.pdf).
 
