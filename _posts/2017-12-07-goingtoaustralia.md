@@ -13,6 +13,10 @@ Vicinity Centres has demonstrated a strong commitment to [sustainability and com
 
 ![TrashBot Brains](/img/posts/boards_close.jpg){:class="img-responsive"}{:height="4608px" width="3072px"} *The brains of the TrashBot.*
 
+![Parts](/img/posts/parts.jpg){:class="img-responsive"}{:height="4608px" width="3072px"} *Some critical pieces of the TrashBot puzzle.*
+
 ![Frames to the grindstone](/img/posts/grant_grinding2.jpg){:class="img-responsive"}{:height="4608px" width="3072px"} *Grant grinding away at the frames.*
+
+
 
 More photos to come. We'll let you know when they're en route to Sydney!
