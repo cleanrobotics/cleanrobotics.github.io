@@ -2,7 +2,7 @@
 layout: post
 title: Team TrashBot makes it to the second round of the IBM AI XPRIZE
 img: AI-XPRIZE.jpg
-thumbnail: teamtrashbotxprize_thumb.PNG
+thumbnail: teamtrashbotxprize_thumb.png
 ---
 We are thrilled to share that we have made it to the second round of the IBM Watson AI XPRIZE. CleanRobotics is one of the 59 teams selected from 147 teams globally. View the list [here](https://ai.xprize.org/teams)
 
