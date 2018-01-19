@@ -6,7 +6,7 @@ thumbnail: Podcast_thumb.png
 ---
 We recently sat down with the Pitchwerks podcast host Scot MacTaggart to discuss buyer motivations, end user education, and the future of waste management. Listen to our conversation here or find @pitchwerks on the podcast platform of your choice.
 
-Drop us your comments here[http://www.cleanrobotics.com/#contact] and don't forget to spread teh word and share with your friends.
+Drop us your comments [here](http://www.cleanrobotics.com/#contact) and don't forget to spread teh word and share with your friends.
 
 Happy Listening!
 
