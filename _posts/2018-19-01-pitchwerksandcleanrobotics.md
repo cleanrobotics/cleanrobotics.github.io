@@ -1,0 +1,9 @@
+---
+layout: post
+title: Pitchwerks Podcast with CleanRobotics
+img: Pitchwerks.png
+thumbnail: Podcast_thumb.png
+---
+
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6133435/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
