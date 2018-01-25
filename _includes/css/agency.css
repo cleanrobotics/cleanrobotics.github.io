@@ -301,7 +301,7 @@ fieldset[disabled] .btn-xl.active {
           rgba(0, 0, 0, 0.5),
           rgba(0, 0, 0, 0.5)
         ),
-		url(img/top-image-cropped.jpg);
+		url(img/top-image-cropped-2.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
@@ -730,7 +730,7 @@ section#contact {
           rgba(0, 0, 0, 0.5),
           rgba(0, 0, 0, 0.5)
         ),
-        url(img/bottom-image-cropped.jpg);
+        url(img/bottom-image-cropped-2.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
