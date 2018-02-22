@@ -56,6 +56,33 @@
 	</div>
 </div>
 
+<script>
+  window.fcWidget.init({
+    token: "73007770-137d-4e2d-b136-67451445daf5",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
+
+<script>
+  // Make sure fcWidget.init is included before setting these values
+
+  // To set unique user id in your system when it is available
+  window.fcWidget.setExternalId("john.doe1987");
+
+  // To set user name
+  window.fcWidget.user.setFirstName("John");
+
+  // To set user email
+  window.fcWidget.user.setEmail("john.doe@gmail.com");
+
+  // To set user properties
+  window.fcWidget.user.setProperties({
+    plan: "Estate",                 // meta property 1
+    status: "Active"                // meta property 2
+  });
+</script>
+
+
 <!--
 				{% for page in site.pages %}
 					{% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
