@@ -100,19 +100,23 @@ people:
    #   url: #
    # - title: stack-overflow
    #   url: #      
-#- first: Vaish 
-#  last: Krishnamurthy
-#  pic: staff_vaish
-#  position: Board Chair
-#  type: advisory
-#  info: Vaish brings 10+ years of software and product development in a variety of industries ranging from telecommunications to health care. She holds an MS in Electrical Engineering from University of California, Riverside.
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: stack-overflow
-#      url: #
+- first: Ian 
+  last: Magazine
+  pic: staff_ian
+  position: Advisor
+  type: advisory
+  info: Ian Magazine has been a founder, investor and finance and operating
+executive for a host of enterprises in the wireless communications industry
+and a highly successful serial entrepreneur who has worked with
+breakthrough innovations in a range of technologies from wireless power
+transmission, to biotechnology and 360° Videography.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
 #- first: Koushil
 #  last: Sreenath
 #  pic: staff_koushil
