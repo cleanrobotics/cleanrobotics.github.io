@@ -1,5 +1,5 @@
 ---
-title: PPG Paints Arena installs CleanRobotics TrashBot to further sustainability initiatives 
+title: PPG Paints Arena installs TrashBot to further sustainability initiatives 
 img: PPG1.jpg
 thumbnail: PPG2_thumb.jpg
 layout: post
