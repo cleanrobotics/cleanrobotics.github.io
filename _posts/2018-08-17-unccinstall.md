@@ -12,3 +12,4 @@ UNC-Charlotte has been committed to sustainability since 2010, with several goal
 
 “The TrashBot installation at UNC-Charlotte is one of many in our rapidly growing network of TrashBots around the globe, which includes high-density facilities like airports, malls, and office buildings,” Charles Yhap, CleanRobotics CEO, said. “Their custodial staff fully embraced the technology during their training. They were especially intrigued with the TrashBot™ sensor technology, which indicates bin fullness, as being a significant time-saver for their activities.”
 
+
